@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fmudri - Filip Mudri
-- 👀 I’m interested in ... Zasada još tražim najzanimljiviju soluciju, ali početci backenda su za sada primarni
-- 🌱 I’m currently learning ... PHP, Java
-- 💞️ I’m looking to collaborate on ... Šta god nađem
-- 📫 How to reach me ... filipmudri@protonmail.com / fmudri@ffos.hr
+- 👀 I’m interested in ... Building C# systems and solutions
+- 🌱 I’m currently learning ... C#
+- 💞️ I’m looking for ... My first C# Junior Dev position 
+- 📫 How to reach me ... filipmudri@protonmail.com
 
 <!---
 fmudri/fmudri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
